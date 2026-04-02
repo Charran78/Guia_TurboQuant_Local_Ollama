@@ -9,7 +9,7 @@ Con TurboQuant puedes:
 
 ## 📖 Contenido
 
-- `turboquant_guide.md` – Guía completa con ejemplos para **llama.cpp**, **Ollama** y **MLX**.
+- `guia_TurboQuant.md` – Guía completa con ejemplos para **llama.cpp**, **Ollama** y **MLX**.
 - Parámetros recomendados para CPU antiguas (Intel i5 4ª gen, etc.).
 - Consejos para optimizar el streaming y evitar bloqueos en aplicaciones cliente.
 - Solución de problemas comunes.
@@ -17,7 +17,7 @@ Con TurboQuant puedes:
 ## 🚀 ¿Cómo usar esta guía?
 
 1. **Clona el repositorio** (o descarga el archivo markdown).
-2. Abre `turboquant_guide.md` en tu editor o visor de Markdown favorito.
+2. Abre `guia_TurboQuant.md` en tu editor o visor de Markdown favorito.
 3. Sigue los pasos según tu hardware y el motor de inferencia que uses:
    - **Opción A (recomendada):** llama.cpp con soporte TurboQuant.
    - **Opción B:** Ollama (experimental).
