@@ -223,7 +223,7 @@ TurboQuant es una herramienta revolucionaria para ejecutar LLMs en hardware mode
 
 **Recursos adicionales:**  
 - [Repositorio de llama.cpp](https://github.com/ggerganov/llama.cpp)  
-- [Paper de Google Research sobre TurboQuant]([https://research.google/pubs/turboquant/](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/))  
+- [Paper de Google Research sobre TurboQuant](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 - [Discusión en r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)  
 
 Si tienes dudas específicas sobre tu hardware o modelo, no dudes en preguntar.
